@@ -1,1 +1,3 @@
 # webscrapping-challenge
+
+The purpose of this project was to scrape data two seperate websites using Python and Beautiful soup. The first part involved scraping the titles and preview text from a Mars News Article Website. The second project involed scraping data from a table containing Mars weather data. This weather data was then analyzed using pandas and various questions were answered using the data.
